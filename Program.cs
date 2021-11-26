@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 public class Program
 {
@@ -20,5 +21,15 @@ public class Program
             Console.WriteLine(i);
             i++;
         } while (i < 10);
+
+        Console.WriteLine("Listas:");
+        List<string> listaNomes = new();
+        listaNomes.Add("Pedro");
+        listaNomes.Add("Pedro");
+        listaNomes.Add("Marcelo");
+        listaNomes.Add("Pâmera");
+        foreach (string nome in listaNomes)
+            Console.WriteLine(nome);
+
     }
 }
