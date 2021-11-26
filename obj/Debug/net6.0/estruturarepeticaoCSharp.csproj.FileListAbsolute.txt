@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\bin\Debug\net6.0\estruturarepeticaoCSharp.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\bin\Debug\net6.0\estruturarepeticaoCSharp.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\bin\Debug\net6.0\estruturarepeticaoCSharp.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\bin\Debug\net6.0\estruturarepeticaoCSharp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\bin\Debug\net6.0\ref\estruturarepeticaoCSharp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\bin\Debug\net6.0\estruturarepeticaoCSharp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\obj\Debug\net6.0\estruturarepeticaoCSharp.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\obj\Debug\net6.0\estruturarepeticaoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\obj\Debug\net6.0\estruturarepeticaoCSharp.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\obj\Debug\net6.0\estruturarepeticaoCSharp.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\obj\Debug\net6.0\estruturarepeticaoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\obj\Debug\net6.0\estruturarepeticaoCSharp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\obj\Debug\net6.0\ref\estruturarepeticaoCSharp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\obj\Debug\net6.0\estruturarepeticaoCSharp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\FormacaoBackEndJavaECSharp\DotNet\estruturarepeticaoCSharp\obj\Debug\net6.0\estruturarepeticaoCSharp.genruntimeconfig.cache
